@@ -1,5 +1,3 @@
-# marketing-campaign-analytics-ai
-Marketing campaign analytics using AWS S3 and Databricks, with planned ML and RAG extensions.
 # Marketing Campaign Analytics and AI
 
 A portfolio project using a 200,000-row marketing campaign dataset
